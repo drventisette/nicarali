@@ -26,4 +26,4 @@ Tout le monde peut participer à l'action de Nicarali et :
 
 - **Faire un don d’objets** pour les brocantes
 
-Pour plus d'informations, [contactez-nous !](/contact)
+Pour plus d'informations, [contactez-nous !]({{site.baseurl}}/contact)

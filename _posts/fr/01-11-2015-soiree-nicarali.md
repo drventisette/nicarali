@@ -26,4 +26,4 @@ Ce sera l’occasion de passer une bonne soirée en musique, tout en découvrant
 
 Participation à la soirée + repas (boissons non comprises) : 18€
 
-**Réservation conseillée** : pour réserver [envoyez-nous un message](/contact) en indiquant le nombre et les noms des personnes pour qui vous souhaitez réserver, ou appellez le **06 71 23 62 05**.
+**Réservation conseillée** : pour réserver [envoyez-nous un message]({{site.baseurl}}/contact) en indiquant le nombre et les noms des personnes pour qui vous souhaitez réserver, ou appellez le **06 71 23 62 05**.
